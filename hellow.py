@@ -1,0 +1,1 @@
+print("Jedziemy z tym węglem ")
